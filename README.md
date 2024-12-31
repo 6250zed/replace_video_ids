@@ -5,6 +5,7 @@ This Python script replaces specific videoId values in a text file (which likely
 Here’s a breakdown of what each part of the script does:
 
 Dependancies:
+tkinter
 python3
 python3-argcomplete
 YouTube Advanced Playlist Export (chrome webstore)
