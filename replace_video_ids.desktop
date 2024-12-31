@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Video ID Replacer
+Comment=Replaces video IDs in files with pre-made values
+Exec="/home/testuser/Downloads/playlist gereration/replace_video_ids.v1.1.0+Frontend.py"
+Icon=utilities-terminal
+Terminal=false
+Type=Application
