@@ -10,6 +10,8 @@ python3
 YouTube Advanced Playlist Export (chrome webstore)
 FreeTube (application)
 
+I haven't tested windows release yet. Appears to run (function not tested yet), If you test it please let me know of any bugs by filing a report via github.
+
 1. Script Purpose:
 The script searches for all occurrences of videoId fields in an input file.
 It replaces each videoId with a corresponding string from a list of predefined replacement values stored in a separate file.
