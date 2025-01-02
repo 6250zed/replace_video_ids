@@ -1,4 +1,8 @@
 # replace_video_ids
+
+![replace_video_ids v1 1 0+Frontend](https://github.com/user-attachments/assets/805e776a-8266-43a1-8fe0-9e071d8eca24)
+
+
 Summary of the Python Script:
 This Python script replaces specific videoId values in a text file (which likely contains JSON-like data) with predefined values from another file. This is great for making a playlist logged into youtube, exporting the playlist as a ".cvs" file. Copying all the ids into a another file (additionally running the script to generate the updated playlist.db), and importing a (newly updated) template exported playlist.db from freetube app. I created the script using ChatGPT 4o mini. It can be modified to take any list of line by line data and import it into a newly generated file.
 
